@@ -8,6 +8,6 @@ Excited to share my latest mini project—a sleek, user-friendly Password Genera
 
 Whether you're a developer, tech enthusiast, or just someone who wants stronger passwords—this tool is for you!
 
-💬 I'd love to hear your feedback or ideas for future improvements. Drop a comment or try it out!
+💬 I'd love to hear your feedback or ideas for future improvements. 
 
 🔗
